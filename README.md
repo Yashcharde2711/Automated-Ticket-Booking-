@@ -1,1 +1,1 @@
-# Automated-Ticket-Booking-
+This is an AI-powered ticket booking system that automates the queue process for high-demand events like cricket matches, concerts, etc. The chatbot collects user preferences, block ticket funds via upi,and automatically books tickets based on availability. Implemented ML models for ticket availability prediction, queue time estimation, and fraud detection, improving efficiency and reducing manual wait times
